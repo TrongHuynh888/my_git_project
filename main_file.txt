@@ -1,2 +1,3 @@
 Nội dung ban đầu
 Thêm tính năng đăng nhập
+Thêm tính năng hồ sơ
